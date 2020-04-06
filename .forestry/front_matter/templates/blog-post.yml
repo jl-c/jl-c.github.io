@@ -14,9 +14,10 @@ fields:
   name: date
   label: date
   config:
-    time_format: h:mm A
-    date_format: MM/DD/YYYY
+    time_format: ''
+    date_format: ''
     export_format: YYYY-MM-DD h:mm A
+  default: now
 pages:
 - _posts/2020-04-05-are-we-out-of-the-woods-yet.md
 - _posts/cornelia-street.md
