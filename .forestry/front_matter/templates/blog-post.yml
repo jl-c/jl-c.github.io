@@ -18,5 +18,3 @@ fields:
     date_format: ''
     export_format: YYYY-MM-DD h:mm A
   default: now
-pages:
-- _posts/2020-04-05-are-we-out-of-the-woods-yet.md
