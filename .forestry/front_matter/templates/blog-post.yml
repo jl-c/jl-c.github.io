@@ -15,5 +15,6 @@ fields:
   label: date
   config:
     time_format: h:mm A
+    date_format: MM/DD/YYYY
 pages:
 - _posts/cornelia-street.md
