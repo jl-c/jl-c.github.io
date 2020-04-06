@@ -6,6 +6,7 @@ fields:
   name: layout
   label: layout
   default: post
+  hidden: true
 - type: text
   name: title
   label: title
@@ -14,7 +15,7 @@ fields:
   label: date
   config:
     display_utc: false
-  default: now
+  default: '2020-04-05 22:35:50 -0600'
 pages:
 - _posts/2020-04-05-this-is-a-test-from-forestryio.md
 - _posts/this-is-a-test-of-time.md
