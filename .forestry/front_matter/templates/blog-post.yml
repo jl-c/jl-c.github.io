@@ -17,3 +17,4 @@ fields:
   default: now
 pages:
 - _posts/2020-04-05-this-is-a-test-from-forestryio.md
+- _posts/this-is-the-final-test-post-of-the-day.md
