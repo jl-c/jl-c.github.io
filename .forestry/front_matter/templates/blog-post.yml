@@ -18,3 +18,5 @@ fields:
     date_format: ''
     export_format: YYYY-MM-DD h:mm A
   default: now
+pages:
+- _posts/now-we-have-an-auto-fill-field.md
