@@ -15,7 +15,7 @@ fields:
   label: date
   config:
     display_utc: false
-  default: '2020-04-05 22:35:50 -0600'
+  default: now
 pages:
 - _posts/2020-04-05-just-another-test-of-the-date-time-format.md
 - _posts/2020-04-05-this-is-a-test-from-forestryio.md
