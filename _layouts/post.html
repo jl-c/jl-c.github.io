@@ -8,12 +8,13 @@
 body{margin:3rem auto;max-width:33rem;padding:0 1rem}
 h1{font-size:2rem;line-height:2.4rem;margin-bottom:1.5rem}
 p{font-size:1.35rem;line-height:1.8rem;margin-bottom:1.5rem}
+p.date {font-family:'Inter',sans-serif;font-size:1.125rem;font-weight:600;line-height:1.5rem;}
 em{font-style:italic}
 </style>
 </head>
 <body>
 <h1>{{ page.title }}</h1>
-<p style="font-family:'Inter',sans-serif;font-size:1.125rem;font-weight:600;line-height:1.5rem;margin-bottom:1.5rem">{{ page.date | date: "%-d %B %Y" }}</p>
+<p class=date>{{ page.date | date: "%-d %B %Y" }}</p>
 <p>{{ content }}</p>
 </body>
 </html>
