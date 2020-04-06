@@ -16,5 +16,3 @@ fields:
   config:
     display_utc: false
   default: now
-pages:
-- _posts/2020-04-05-just-another-test-of-the-date-time-format.md
