@@ -13,5 +13,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    time_format: h:mm A
 pages:
 - _posts/cornelia-street.md
