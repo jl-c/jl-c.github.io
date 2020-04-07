@@ -1,0 +1,33 @@
+---
+layout: post
+date: 2020-04-06 9:34 PM
+title: Working on Myself
+
+---
+At the risk of sounding new-agey, I've been reciting a short mantra to myself for over a month now: "Body. Mind. Spirit." These three words denote the aspects of myself to self-improve in my current chapter of life.
+
+I used to be more categorical in my approach. School, work, and friends were my areas of focus. I was rather career-driven, referencing my personal and professional development by external benchmarks. In early 2019, that paradigm was shifted—if not shattered—when my points of reference collapsed. The notions of status, recognition, and validation from others based on my level of competence were tested and obliterated. My ego, the cumulative sense of self-worth, unraveled and collapsed.
+
+2019 was a rough year. I lost a sense of competence in my work, and because I was ego-driven, I went into a self-imposed exile from the communities I was a part of through that work. My professional and social identities fell apart. The only thing worse was that I also lost a companion; so, I was tasked with starting over again on my own.
+
+Competence. Community. Companion. These were ideals I valued dearly, and the pain of loss was compounded because each of these were a manifestation of the external world. Competence, based on how others perceive me. Community, based on others' acceptance of me. Companion, based on the idea of a person for me. On most days, these are positive ideals. They bring warm colours into one's life, and lend themselves to one's sense of purpose.
+
+Even so, when a person's life is dependent on choices made by others, there comes an eventual tipping point. My ego placed too much reliance and too much pressure on what others thought of me, and I suppose life tends to deliver lessons at times when the learning is most instructive.
+
+All of this is to say: I began to turn inward in search of answers. Which then led to a search of questions. You know, the existential ones that really keep you up at night, if you allow yourself the time and space to dwell on them (or when you're forced to because your phone's battery has died and you're in no mood to even grab its charger). Questions such as "What do I want to do with my life?" can be deconstructed and restructured in different permutations, as follows:
+
+_What_ do I want to do with my life? That is, in deciding how to spend my time, I am equally making the set of decisions on how not to spend it. After all, the etymology of decide is "to cut"—such that taking action simultaneously invokes subtraction; a pruning of the branches emanating from the present moment. I may not know what I will do with my life exactly, but I do have a strong sense of the choices I will not make.
+
+What do _I_ want to do with my life? Here's a trippy thought experiment. Ask yourself, "Who am I?" and then follow-up with, "Who is posing that question?" In this recursive thinking, there is the slightest recognition of an inner voice—before it realizes it drew attention to itself and then goes back into hiding. See, for most of my adult life, much of what I wanted to do (as the set of  answers to permutation #1 of the question) was dictated by the expectations of others. Family, friends, teachers, colleagues, etc. It's the fear of missing out. It's the desire to please others. It's the pressure from peers. I feel that the mind subsequently convinces itself that such decisions were self-generated. After a lot of journaling (and self-interrogation), I am only now comfortable with recognizing my own agency in my choices. It's comforting to make up _your own mind_, but it's certainly not the automatic way of being.
+
+What do I want to _do with_ my life? I submit that this question assumes there must be a purpose to which one directs their time and energy. Perhaps the asking of this particular question is my ego at work, because it cannot accept that life can simply be lived and enjoyed. (Now I _know_ this is an idea for me to sit with.) For now, I depend on Shakespeare's observation that "there is nothing either good or bad, but thinking makes it so." So, whether or not life involves a purpose, what one believes about purpose determines how they go about living life. If I am of the mind to suppose life is something to _do with_, then all the more reason for me to figure out what that entails.
+
+What do I want to do with _my life_? There's a portion of Steve Jobs' commencement speech to Stanford graduates that I used to think was quite morbid: "Remembering that \[he\]’ll be dead soon is the most important tool \[he's\] ever encountered to help \[him\] make the big choices in life." I didn't know this sort of thinking had its own Latin term: _memento mori_—remember that you must die. If posing existential questions requires the right headspace and emotional temperance even at the best of times, then what of leaning into the though of one's own death? It is uncomfortable. Yet, something odd does happen when one contemplates their mortality. It puts everything into perspective, and this clarity is either terrifying or inspiring. It's all the platitudes of the world collected into one: live your life well.
+
+(And this was just one of the questions that kept me up at night, all approached similarly.)
+
+So now I am at a place where I want to know myself more. I am naturally introverted. I like being alone. Yes, there are days when my disposition leads me to feeling lonely, but I've learned to take those feelings as invitations from myself to myself to address my feelings. In short, I now endeavour to become friends with my lifelong companion—myself. _Not_ out of some twisted ego, but out of a yearning to exist in this world in a constant state of serenity, curiosity, and amazement. Ergo I will focus on my body, mind, and spirit.
+
+Working on my body entails developing strength and physical composure. The intent is to carry myself confidently. Working on my mind entails raising awareness of my thoughts as both the one who has them and the one who observes them. The intent is to improve my ability to think independently. Working on my spirit entails spending time on that which makes me feel alive—with this being the only criterion. The intent is to reconcile my relationship with the external world, not so I can derive a sense of control over my environment, but so that I can co-exist with the forces of change.
+
+This blog will function as a sense-making tool on my journey.
