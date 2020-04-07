@@ -8,7 +8,7 @@ At the risk of sounding new-agey, I've been reciting a short mantra to myself fo
 
 I used to be more categorical in my approach. School, work, and friends were my areas of focus. I was rather career-driven, referencing my personal and professional development by external benchmarks. In early 2019, that paradigm was shifted—if not shattered—when my points of reference collapsed. The notions of status, recognition, and validation from others based on my level of competence were tested and obliterated. My ego, my total sense of self-worth, fell apart and could not hold.
 
-2019 was a rough year. I lost a sense of competence in my work, and because I was ego-driven, I went into a self-imposed exile from the communities I was a part of through that work. My professional and social identities fell apart. The only thing worse was that I also lost a companion; so, I was tasked with starting over again on my own.
+2019 was a rough year. I lost a sense of competence in my work, and because I was ego-driven, I went into a self-imposed exile from the communities I was a part of through that work. My professional and social identities faded. The only thing worse was that I also lost a companion; so, I was tasked with starting over again on my own.
 
 Competence. Community. Companion. These were ideals I valued dearly, and the pain of loss was compounded because each of these were a manifestation of the external world. Competence, based on how others perceive me. Community, based on others' acceptance of me. Companion, based on the idea of a person for me. On most days, these are positive ideals. They bring warm colours into one's life, and lend themselves to one's sense of purpose.
 
