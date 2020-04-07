@@ -12,7 +12,7 @@ I used to be more categorical in my approach. School, work, and friends were my 
 
 Competence. Community. Companion. These were ideals I valued dearly, and the pain of loss was compounded because each of these were a manifestation of the external world. Competence, based on how others perceive me. Community, based on others' acceptance of me. Companion, based on the idea of a person for me. On most days, these are positive ideals. They bring warm colours into one's life, and lend themselves to one's sense of purpose.
 
-Even so, when a person's life is dependent on choices made by others, there comes an eventual tipping point. My ego placed too much reliance and too much pressure on what others thought of me, and I suppose life tends to deliver lessons at times when the learning is most instructive.
+Even so, when a person's life is dependent on choices made by others, there comes an eventual tipping point. My ego placed too much reliance and too much pressure on what others thought of me, and I suppose life tends to deliver lessons at times when the learning will be most instructive.
 
 All of this is to say: I began to turn inward in search of answers. Which then led to a search of questions. You know, the existential ones that really keep you up at night, if you allow yourself the time and space to dwell on them (or when you're forced to because your phone's battery has died and you're in no mood to even grab its charger). Questions such as "What do I want to do with my life?" can be deconstructed and restructured in different permutations, as follows:
 
