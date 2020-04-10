@@ -19,6 +19,13 @@ fields:
     export_format: YYYY-MM-DD h:mm A
   default: now
   hidden: true
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
+  description: for the URL; e.g. /about
+  default: "/"
 pages:
 - _posts/2020-04-06-working-on-myself.md
 - _posts/on-seneca-s-essay-on-the-shortness-of-life.md
