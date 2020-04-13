@@ -1,0 +1,40 @@
+---
+layout: post
+date: 2020-04-13 1:34 AM
+permalink: "/worship"
+title: Choosing What I Worship
+
+---
+It is a truism that what preoccupies a person is what they spend the most time on. The late David Foster Wallace offered an apt verb to describe this way of life–worship:
+
+> Everybody worships. The only choice we get is what to worship. And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much anything else you worship will eat you alive. If you worship money and things, if they are where you tap real meaning in life, then you will never have enough, never feel you have enough. It’s the truth. Worship your body and beauty and sexual allure and you will always feel ugly. And when time and age start showing, you will die a million deaths before they finally grieve you. \[…\]
+>
+> Worship power, you will end up feeling weak and afraid, and you will need ever more power over others to numb you to your own fear. Worship your intellect, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out. But the insidious thing about these forms of worship is not that they’re evil or sinful, it’s that they’re unconscious. They are default settings.
+>
+> They’re the kind of worship you just gradually slip into, day after day, getting more and more selective about what you see and how you measure value without ever being fully aware that that’s what you’re doing.
+
+These ideas are from a commencement speech given by DFW, later repackaged as a piece called “This is Water”–one of two commencement speeches I actually find memorable (the other being Steve Jobs’ address made in 2005). About once a year I revisit DFW’s ideas because, standing outside the towers of higher education and well into my adulthood, I find the lack of structure in life equally liberating and daunting. It’s the postmodern condition in which everything is met with skepticism; nothing is exempt, nothing is sacred. Where, on these shifting seas, can one firmly take a stand?
+
+## My Default Idols
+
+In July 2019, I started investing my money. I mean the serious type of investing: buying financial assets instead of parking my money in a savings account that hardly exceeds the rate of inflation. I’ve found it an enjoyable preoccupation, since it involves calculations, spreadsheets, economics (both general and behavioural), and psychology. I’ve certainly learned a bit about myself w/r/t risk tolerance, overconfidence, discipline, and patience.
+
+Not just in good times either: the COVID-19 pandemic wreaked havoc on the global economy and stock markets in the last couple months. The damage may continue, despite an upward trend in the markets at the time of writing. At any rate, my temperament as an investor has been tested in the midst of panic. Nine months is a very short time to be in the markets, though in an odd way I am grateful to have experienced the highs of an unusually long bull run, and the subsequent spiral into lows (granted, the lows have been relative; it’s the speed of the crash that’s been thrilling). My investment journey has coincided with some historic extremes. I’ve made some mistakes on this journey, but thankfully my losses (and gains) have been modest given my short time in the markets.
+
+All of this to say: I now see two paths before me.‌ The first one leads to continued: engagement with the daily news about the pandemic; lurking of the various Internet forums in which investors partake; viewing of the day-to-day changes in stock prices on my phone; and study of basic investment principles and investor psychology. Of these activities, only the last one has had a real impact on my learning and decision-making processes, but its rate of return has been diminishing. Human behaviour in the markets is largely guided by common biases and fallacies, and I no longer feel awe in learning about how humans think–at least in how they invest money. The remaining activities are, if I’m being honest, attempts to find meaning in a sea of noise. They aren’t innocuous uses of my time either–it gets emotionally exhausting being exposed to hard news; Internet forums, given the way they attract and retain members, are echo chambers that overload one’s ability to think independently (which I’ve determined is a trait I want to develop); and the whole point of investing is to reap decades from now what I sow today, so why should I care about daily price changes? While investing is a prudent way to create wealth for my future self, I have it in me to be led by it to the shrine of false gods. If I continue on this path, I would further worship money, be swayed by the illusion of control, and hinder my ability to think for myself.
+
+The second path before me is illuminated by DFW. Contra his description of unconscious worship:
+
+> And the so-called real world will not discourage you from operating on your default settings, because the so-called real world of men and money and power hums merrily along on the fuel of fear and anger and frustration and craving and the worship of self. Our own present culture has harnessed these forces in ways that have yielded extraordinary wealth and comfort and personal freedom. The freedom all to be lords of our own tiny skull-sized kingdoms, alone at the centre of all creation. This kind of freedom has much to recommend it. But of course there are all different kinds of freedom, and the kind that is most precious you will not hear much talk about much in the great outside world of wanting and achieving and displaying. The really important kind of freedom involves attention and awareness and discipline, and being able truly to care about other people and to sacrifice for them over and over in myriad petty, litte unsexy ways every day. That is real freedom.
+
+Attention, awareness, and discipline–the qualities I seek to improve in myself are the qualities I need to begin practicing. It is the easiest thing for me to tinker my investment strategy–to tend to its details; to seek awareness of its strengths and weaknesses and opportunities and threats; and to suppose I can be disciplined to implement the strategy _once_ it is finalized. But such practice of these qualities are hollow; they’re done to serve my ego and contribute nothing to my relationship with the world. And I must confess: I believe the investment approach I had back in the fall of last year remains the best for me. Despite making (supposedly tactical) tweaks, I have come across nothing that improves on that original approach. Rather, I’ve only added unnecessary complexity to what was designed to be simple.
+
+This is what happens when I am the lord of my own tiny skull-sized kingdom:‌ I feel compelled to display my dominion.
+
+## Forsaking False Idols
+
+I am going to take the second path. I am going to exercise my choice in what I worship, instead of unconsciously going through my days. I do not know what will replace my preoccupation with investing, but I do know that I need to put that preoccupation to rest.
+
+So, starting today, I will return to simplicity. I will prioritize minimizing regret over maximizing returns and optimizing decisions. This means spending less time on the act of investing (i.e., being a passive investor) and more time on other life pursuits.
+
+I’ve revised my investment policy statement and created a spreadsheet which calculates the quantities of shares to purchase based on cash contributions. My investing approach is now automated as much as possible, to reduce my own automatic, self-obstructing tendencies. I am _choosing_ to believe that the last nine months have led to this moment, and now look forward to my next preoccupation, consciously chosen.
