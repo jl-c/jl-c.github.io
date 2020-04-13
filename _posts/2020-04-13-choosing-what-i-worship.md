@@ -13,7 +13,7 @@ It is a truism that what preoccupies a person is what they spend the most time o
 >
 > They’re the kind of worship you just gradually slip into, day after day, getting more and more selective about what you see and how you measure value without ever being fully aware that that’s what you’re doing.
 
-These ideas are from a commencement speech given by DFW, later repackaged as a piece called “This is Water”–one of two commencement speeches I actually find memorable (the other being Steve Jobs’ address made in 2005). About once a year I revisit DFW’s ideas because, standing outside the towers of higher education and well into my adulthood, I find the lack of structure in life equally liberating and daunting. It’s the postmodern condition in which everything is met with skepticism; nothing is exempt, nothing is sacred. Where, on these shifting seas, can one firmly take a stand?
+These ideas are from [a commencement speech given by DFW,](https://www.youtube.com/watch?v=8CrOL-ydFMI) later repackaged as a piece called “This is Water”–one of two commencement speeches I actually find memorable (the other being Steve Jobs’ address made in 2005). About once a year I revisit DFW’s ideas because, standing outside the towers of higher education and well into my adulthood, I find the lack of structure in life equally liberating and daunting. It’s the postmodern condition in which everything is met with skepticism; nothing is exempt, nothing is sacred. Where, on these shifting seas, can one firmly take a stand?
 
 ## My Default Idols
 
