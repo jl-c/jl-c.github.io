@@ -5,7 +5,7 @@ permalink: "/worship"
 title: Choosing What I Worship
 
 ---
-It is a truism that what preoccupies a person is what they spend the most time on. The late David Foster Wallace offered an apt verb to describe this way of life—worship:
+It is a truism that what preoccupies a person is what they spend the most time on. The late David Foster Wallace offered an apt verb to describe this way of life—_worship_:
 
 > Everybody worships. The only choice we get is what to worship. And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship—be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles—is that pretty much anything else you worship will eat you alive. If you worship money and things, if they are where you tap real meaning in life, then you will never have enough, never feel you have enough. It’s the truth. Worship your body and beauty and sexual allure and you will always feel ugly. And when time and age start showing, you will die a million deaths before they finally grieve you. \[…\]
 >
