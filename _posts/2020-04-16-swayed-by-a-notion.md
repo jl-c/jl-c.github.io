@@ -19,6 +19,6 @@ The header _Poetry_ is akin to having a header for projects. I want to value thi
 
 Unless I run into glaring issues, Notion is on track to replace Google Drive as my main productivity hub. It's light, quick, and even _fun_ to use. I'm actually excited to dabble in poetry tonight.
 
-Oh, and in case I'm giving off the impression with my dashboard (and heck, this blog itself…) that I am aesthetically dull, I say to you, "au contraire."
+Oh, and in case I'm giving off the impression with my dashboard (and heck, this blog itself…) that I am aesthetically dull, I say to you, "au contraire; behold my take on _50 Shades of Grey_."
 
-![My setup](/uploads/grey.jpeg "My setup")Behold, my take on '50 Shades of Grey'
+![My setup](/uploads/grey.jpeg "My setup")
