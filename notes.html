@@ -9,7 +9,7 @@
 body {
 color:#222;
 font-family: 'Literata', serif;
-margin:1.5rem 1.5rem;
+margin:1.5rem;
 max-width:42rem
 }
 
@@ -18,7 +18,7 @@ display:inline-block;
 font-size:1.75rem;
 font-weight:600;
 line-height:1.8rem;
-margin:1.8rem auto
+margin:3.6rem auto 1.8rem
 }
 
 h2 {
@@ -33,7 +33,14 @@ margin:calc(1.8rem - 2px) 0 1.8rem
 p {
 font-size:1.0625rem;
 line-height:1.8rem;
-margin:0 0 1.8rem
+margin:0 0 1.8rem;
+max-width:39rem
+}
+
+p.tag {
+font-size:1.125rem;
+line-height:1.8rem;
+margin-left:0;
 }
 
 a:visited {
@@ -52,7 +59,7 @@ color:#15c;
 }
 
 footer {
-border:2px solid #e6e6e6;
+border:2px solid #eee;
 border-radius:9px;
 line-height:1.6rem;
 max-width:39rem;
@@ -61,20 +68,19 @@ padding:1.5rem
 }
 
 @media screen and (min-width:39rem){
-body{margin:1.8rem 1.5rem 0}
-p{margin-left:auto;max-width:39rem}
+p{margin-left:auto}
 }
 
 @media screen and (min-width:45rem){
-body{margin:1.8rem auto 0}
-p{font-size:1.125rem;margin-left:3rem}
+body{margin:1.5rem auto 0}
+p{font-size:1.125rem;}
 }
 
 </style>
 </head>
 <body>
 <div><h1>Author’s Notes</h1>
-<p style=margin-left:0;font-size:1.25rem>On developing <a href=#>studentdevelopment.org</a></p>
+<p class=tag>On developing <a href=#>studentdevelopment.org</a></p>
 <h2>September 14, 2020</h2>
 <p>Maecenas et commodo nunc, sit amet egestas mi. Nullam vitae rhoncus nunc. <a href=https://www.youtube.com/watch?v=WVErYPCmmeA>Fusce in justo arcu</a>. Mauris mollis accumsan velit quis feugiat. Vestibulum blandit mattis risus, finibus lacinia ligula rhoncus mattis. Fusce ac urna nulla. Pellentesque faucibus dui a cursus ornare.</p><p>Etiam finibus eu justo id sollicitudin. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi faucibus id magna eu vehicula. Integer auctor dignissim ultrices.</p>
 <h2>August 22, 2020</h2>
