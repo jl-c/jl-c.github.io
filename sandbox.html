@@ -1,5 +1,6 @@
 
 
+
 <!DOCTYPE html>
 <html lang=en>
 <head>
@@ -12,7 +13,8 @@ body {
 color:#222;
 font-family: 'Literata', serif;
 margin:1.5rem;
-max-width:42rem
+max-width:42rem;
+padding:0 1.5rem
 }
 
 h1 {
@@ -20,7 +22,7 @@ display:inline-block;
 font-size:1.75rem;
 font-weight:600;
 line-height:1.8rem;
-margin:1.8rem auto
+margin:1.8rem auto;
 }
 
 h2 {
@@ -82,11 +84,12 @@ margin-bottom:0.9rem;
 
 span {margin-right:1rem}
 
-@media screen and (min-width:39rem){
+@media screen and (min-width:42rem){
+body {margin:1.5rem 1.5rem 0}
 }
 
-@media screen and (min-width:45rem){
-body{margin:1.5rem auto 0}
+@media screen and (min-width:48rem){
+body{margin:1.5rem auto 0;padding:0 1.5rem}
   h1 {margin-top:3.6rem}
 }
 
